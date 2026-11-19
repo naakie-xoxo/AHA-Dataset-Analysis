@@ -1,0 +1,9 @@
+pandas==3.1.1
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+jupyter
+openpyxl==3.1.5
+ipykernel
